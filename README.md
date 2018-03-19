@@ -10,7 +10,7 @@
 
 ## 👽 Back-end Roadmap
 
-![](https://i.imgur.com/HeJFLEe.png)
+![](https://i.imgur.com/MMPPEqA.png)
 
 ## 👷 DevOps Roadmap
 
