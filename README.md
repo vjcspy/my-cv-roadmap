@@ -6,11 +6,11 @@
 
 ## 🎨 Front-end Roadmap
 
-![](https://i.imgur.com/oVIKvcG.png)
+![](https://i.imgur.com/derPGnN.png)
 
 ## 👽 Back-end Roadmap
 
-![](https://i.imgur.com/MMPPEqA.png)
+![](https://i.imgur.com/5PoS3LT.png)
 
 ## 👷 DevOps Roadmap
 
