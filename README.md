@@ -2,16 +2,16 @@
 
 ## 🚀 Introduction
 
-![](https://i.imgur.com/ktuQpxp.png)
+![](https://i.imgur.com/A1zjuZd.png)
 
 ## 🎨 Front-end Roadmap
 
-![](https://i.imgur.com/derPGnN.png)
+![](https://i.imgur.com/wmMEwG4.png)
 
 ## 👽 Back-end Roadmap
 
-![](https://i.imgur.com/5PoS3LT.png)
+![](https://i.imgur.com/GYG5VdV.png)
 
 ## 👷 DevOps Roadmap
 
-![](https://i.imgur.com/agS7az7.png)
+![](https://i.imgur.com/TPNiRHv.png)
